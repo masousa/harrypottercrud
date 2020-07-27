@@ -1,0 +1,18 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.project
+.classpath
+.settings/
+.metadata/
+
+rebel.xml
+*.pageflow
+*.iml
+*.ipr
+*.iws
+*.class
+
+.idea/
+target/
+build/
+bin/
